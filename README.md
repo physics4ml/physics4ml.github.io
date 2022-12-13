@@ -1,15 +1,11 @@
-# Geometric and Topological Representation Learning (GTRL)
+# Physics for Machine Learning (physics4ml)
 
-This is the repository for the web pages of our ICLR Workshop Series on
-Geometrical and Topological Representation Learning. Please visit
-[gt-rl.github.io](https://gt-rl.github.io)
+This is the repository for the web pages of our ICLR 2023 Workshop on
+Physics for Machine Learning. Please visit
+[physics4ml.github.io](https://physics4ml.github.io)
 for more information.
 
 # Licence
 
-The code of this theme is licensed under a BSD 3-Clause licence. Please
-see the file `LICENSE` for more information. The assets of this theme,
-i.e. all images and logos, are licensed under a [Creative Commons Attribution
-4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence.
-Please acknowledge either the authors (see `AUTHORS` file) or this repository
-when re-using an asset.
+This code has vastly been taken from [github.com/gt-rl/gt-rl.github.io](https://github.com/gt-rl/gt-rl.github.io). 
+If you decide to build up on this, please make sure to acknowledge the authors of the original repository.
