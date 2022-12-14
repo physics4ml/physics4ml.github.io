@@ -14,9 +14,9 @@ papers.
 This workshop is **non-archival**; even though all accepted papers will be
 available on OpenReview, there are *no* formally-published proceedings.
 
-| **Submission link** | [OpenReview]() |
+| **Submission link** | [OpenReview](https://openreview.net/group?id=ICLR.cc/2023/Workshop/Physics4ML) |
 | **Submission opens** | 1 January 2023 |
-| **Submission deadline** | 1 February 2023 (AoE) |
+| **Submission deadline** | 3 February 2023 (AoE) |
 | **Final decisions** | 3 March 2023 |
 
 # List of topics
