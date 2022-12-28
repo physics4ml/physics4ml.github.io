@@ -38,5 +38,5 @@ If you are not sure if your topic is suitable for the workshop, please feel free
 	- Astrophysics
 	- Particle physics
 	- Multi-scale problems (e.g. in multi-physics)
-- Physics-based for symbolic regression
+- Physics-based symbolic regression
 - Dynamical systems reconstruction with physics-based inductive bias

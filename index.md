@@ -6,6 +6,8 @@ layout: default
 
 This is the homepage for our [ICLR 2023](https://iclr.cc/Conferences/2023) workshop on 'Physics for Machine Learning'.
 
+The workshop will take place on May 5th, 2023 in Kigali, Rwanda (Hybrid)
+
 # Background
 
 Combining physics with machine learning is a rapidly growing field of research. Thus far, most of the work in this area focuses on leveraging recent advances in classical machine learning to solve problems that arise in the physical sciences. In this workshop, we wish to focus on a  slightly less established topic, which is the converse: exploiting structures (or symmetries) of physical systems as well as insights developed in physics to construct novel machine learning methods and gain a better understanding of such methods.

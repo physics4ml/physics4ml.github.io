@@ -14,7 +14,7 @@ layout: default
 <div class='orgWrapper'>
 <img align="left" src="assets/images/yb.jpg" alt="Yasaman Bahri" width="150">
 <div class='bioWrapper'>
-[**Yasaman Bahri**](https://sites.google.com/view/yasamanbahri/home) is a Research Scientist at Google Research. She has broad interests within machine learning, with a current focus on the foundations of deep learning. She has contributed to the theory of overparameterized neural networks and statistical mechanics approaches to deep learning. She received her Ph.D. in physics (2017), in the area of theoretical condensed matter, from the University of California, Berkeley. She is a recipient of the 2020 Rising Stars Award in EECS (UC Berkeley) and the NSF Graduate Fellowship.
+[**Yasaman Bahri**](https://sites.google.com/view/yasamanbahri/home) is a Research Scientist at Google Research working at the interface of machine learning and physical science. Her recent work has focused on developing foundations for deep learning via the study of overparameterized neural networks and statistical mechanics approaches. She received her Ph.D. in physics, in the area of theoretical condensed matter, from the University of California, Berkeley. She was an invited lecturer at the Les Houches School of Physics (2022) and is a recipient of the Rising Stars Award in EECS (2020).
 </div>
 </div>
 
