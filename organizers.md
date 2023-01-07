@@ -14,7 +14,7 @@ layout: default
 <div class='orgWrapper'>
 <img src="assets/images/ak.png" alt="Aditi Krishnapriyan" width="150" />
 <div class='bioWrapper'>
-[**Aditi Krishnapriyan**](https://a1k12.github.io/) is an assistant professor at UC Berkeley. She received her PhD from Stanford University, where she was funded by the Department of Energy Computational Science Graduate Fellowship. Her main research interests are in developing new physics-informed machine learning methods for a range of science and engineering disciplines including molecular dynamics, fluid mechanics, and climate science. She is also interested in using insights from statistical physics to inform neural network understanding.
+[**Aditi Krishnapriyan**](https://a1k12.github.io/) is an assistant professor at UC Berkeley. She received her PhD from Stanford University, where she was funded by the Department of Energy Computational Science Graduate Fellowship. Her research interests include physics-inspired machine learning methods; geometric deep learning; inverse problems; and development of machine learning methods informed by physical sciences applications including molecular dynamics, fluid mechanics, and climate science.
 </div>
 </div>
 
