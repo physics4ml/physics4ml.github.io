@@ -16,7 +16,7 @@ available on OpenReview, there are *no* formally-published proceedings.
 
 | **Submission link** | [OpenReview](https://openreview.net/group?id=ICLR.cc/2023/Workshop/Physics4ML) |
 | **Submission opens** | 1 January 2023 |
-| **Submission deadline** | 3 February 2023 (AoE) |
+| **Submission deadline** | 8 February 2023 (AoE) |
 | **Final decisions** | 3 March 2023 |
 
 # List of topics
