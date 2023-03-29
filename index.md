@@ -6,7 +6,7 @@ layout: default
 
 This is the homepage for our [ICLR 2023](https://iclr.cc/Conferences/2023) workshop on 'Physics for Machine Learning'.
 
-The workshop will take place on May 5th, 2023 in Kigali, Rwanda (Hybrid)
+The workshop will take place on May 4th, 2023 in Kigali, Rwanda (Hybrid)
 
 # Background
 
