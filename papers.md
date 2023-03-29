@@ -6,7 +6,7 @@ layout: default
 
 This is the list of all accepted papers. You can find more information
 about each submission by following either the *Forum* link or by visiting
-our [OpenReview Workshop Website](https://openreview.net/group?id=ICLR.cc/2023/Workshop/Physics4ML). Please note that not all submissions are revised yet.
+our [OpenReview Workshop Website](https://openreview.net/group?id=ICLR.cc/2023/Workshop/Physics4ML). 
 
 # Statistics
 
