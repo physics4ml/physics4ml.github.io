@@ -4,7 +4,19 @@ layout: default
 
 # Programme Committee
 
-We are very grateful for the support of these researchers who served as reviewers for our workshop:
+We are very grateful for the support of these researchers who served as the program committee of our workshop.
+
+## Area Chairs:
+
+- Benjamin Paul Chamberlain
+- Emmanuel De Bezenac
+- Patrick Kidger
+- Aditi Krishnapriyan
+- T. Konstantin Rusch
+- Elise van der Pol
+
+
+## Reviewers:
 
 - Victor Armegioiu
 - Federico Barbero
