@@ -9,6 +9,7 @@ navigation:
   Speakers: "/speakers"
   Organizers: "/organizers"
   Program Committee: "/committee"
+  Accepted Papers: "/papers"
 
 markdown: kramdown
 
